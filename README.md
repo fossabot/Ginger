@@ -1,6 +1,5 @@
-
-
 #  <img src="https://github.com/Ginger-Automation/Ginger/blob/master/Ginger/DeveloperZone/Documents/images/Ginger.png" width="64"> Ginger Automation [![Build status](https://ci.appveyor.com/api/projects/status/1wcp41xf6q49988m?svg=true)](https://ci.appveyor.com/project/ambarkhan/ginger) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Ginger-Automation/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fambarkhan%2FGinger.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fambarkhan%2FGinger?ref=badge_shield)
 Ginger is an Automation IDE, Drag & Drop automation, no coding skills needed, open platform with plugin capabilities.
 
 
@@ -107,3 +106,7 @@ Ginger is leveraging on a variety of great open source libraries, like: Selenium
 
 # Coming soon
 Ginger is free to use and the open source code is in process of moving to Git from our TFS server it will be completed before the end of 2018
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fambarkhan%2FGinger.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fambarkhan%2FGinger?ref=badge_large)
